@@ -1,0 +1,73 @@
+
+body
+{
+    font: 18px Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+#logo
+{
+    margin-left: 500px;
+    
+}
+header
+{
+    background-color: #699C4D;
+    padding: 50px;
+    margin: 0px;
+    color: white;
+    display: flex;
+}
+h3
+{
+    background-color: #699C4D;
+    color: white;
+    width: 650px;
+    text-align: start;
+    padding: 6px 6px 6px 12px;
+
+}
+h2
+{
+    margin-top: 1px;
+    font-size: 10px;
+}
+h1
+{
+    margin-bottom: 1px;
+}
+nav
+{
+    background-color: #243F12;
+    padding: 10px;
+    width: 470px;
+    margin: 100px 10px 10px 330px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+#verde{
+    color: green;
+    text-decoration: underline;
+}
+main
+{
+    display: flex;
+    height: 800px;
+}
+.dolado{
+    width: 900px;
+    margin: 30px;
+    color: #426131;
+    
+}
+footer
+{
+    background-color: #699C4D;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    color: white;
+}
