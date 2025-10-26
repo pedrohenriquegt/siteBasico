@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Green and Plain",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../../../Downloads/images"
+		},
+		{
+			"path": "../../H&C - Guanabara/HTML e CSS/Exercicios/ex021 - Modelo de Caixas"
+		},
+		{
+			"path": "../blog-preview-card-main/blog-preview-card-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Green and Plain"
+	}
+}
